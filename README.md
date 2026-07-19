@@ -19,7 +19,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://your-project-name.vercel.app
+👉 github-workspace-psi.vercel.app
 
 ### ⭐ A Complete GitHub Client Built with Modern React
 
