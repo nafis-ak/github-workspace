@@ -6,20 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Explore+GitHub+Developers+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Manage+Repositories+%F0%9F%93%82;Organize+Collections+%F0%9F%93%9A;Track+Favorites+%E2%AD%90;Built+with+React+%2B+TypeScript+%2B+Vite" alt="Typing SVG" />
 
-<br>
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=for-the-badge&logo=vite)
-![Context API](https://img.shields.io/badge/Context_API-State_Management-000000?style=for-the-badge)
-![GitHub API](https://img.shields.io/badge/GitHub-REST_API-181717?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/License-Educational-success?style=for-the-badge)
-
----
 
 ## 🌐 Live Demo
 
-👉 github-workspace-psi.vercel.app
+Experience the application live:
+
+👉 **https://github-workspace-psi.vercel.app**
 
 ### ⭐ A Complete GitHub Client Built with Modern React
 
