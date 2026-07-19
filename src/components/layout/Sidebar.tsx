@@ -110,15 +110,31 @@ export default function Sidebar() {
       </div>
 
       {/* Mini footer containing workspace credits */}
-      <div className="border-t border-gray-100 dark:border-gray-800 pt-4 px-3 space-y-2 select-none">
-        <div className="flex items-center gap-2">
-          <Code2 className="w-4 h-4 text-gray-400" />
-          <span className="text-[10px] font-mono text-gray-400">API Standard: v3 REST</span>
-        </div>
-        <p className="text-[10px] text-gray-400 font-sans leading-relaxed">
-          Developed under Google AI Studio workspace container.
-        </p>
-      </div>
+      {/* Project Footer */}
+<div className="border-t border-gray-100 dark:border-gray-800 pt-5 px-3">
+
+  <div className="flex flex-col gap-2">
+
+    <span className="text-xs font-semibold text-gray-700 dark:text-gray-200">
+      GitHub Workspace
+    </span>
+
+    <span className="text-[11px] text-gray-500 dark:text-gray-400">
+      Developed by
+      <span className="font-semibold text-blue-600"> Md. Asif Khandoker</span>
+    </span>
+
+    <span className="text-[10px] text-gray-400">
+      React • TypeScript • Vite
+    </span>
+
+    <span className="text-[10px] text-gray-400">
+      GitHub REST API • Version 1.0
+    </span>
+
+  </div>
+
+</div>
     </aside>
   );
 }
